@@ -1,0 +1,6 @@
+Flask
+googletrans
+langdetect
+tensorflow
+nltk
+sentence-transformers
